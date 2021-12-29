@@ -1,6 +1,7 @@
 # 这是什么 | What's this
 一个特~~二刺螈~~（文爱）的适用于任何bot的词库<br>
 好像有点涩？（不止一点
+
 来自于[宝藏](https://github.com/Kyomotoi/AnimeThesaurus)
 小动物版（自认为）
 可任意提交
